@@ -4,6 +4,8 @@ author: "LordLatch"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
-
-# Down the rabbit-hole
+# Preface {-}
+This book was written for humans who can reason.
+These people desire The One Truth and
+recognize it when they hear it.
 
