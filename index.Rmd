@@ -1,11 +1,18 @@
---- 
+---
 title: "Awareness"
 author: "LordLatch"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
-# Preface {-}
-This book was written for humans who can reason.
-These people desire The One Truth and
-recognize it when they hear it.
 
+# Preface {.unnumbered}
+
+This book was written for humans who can reason.
+
+These people desire The One Truth and recognize it when they hear it.
+
+The Bookdown template I used to create this project had chapters named after those in the Lewis Carole classic and I Decided to keep them as themes for what I'm talking about. As an example, the tumble down the rabbit hole refers to the straight line draw between God and Man or Father and Son. The Axis Mundi goes through the Earth. Alice is the Axis as she falls into her subconscious.
+
+his work is not about Alice at all and at the same time. it is.
+
+Alice = All I See.
