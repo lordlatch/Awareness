@@ -5,9 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-![](images/clipboard-3207274373.png)
-
-# Preface {.unnumbered}
+# Preface![](images/clipboard-3207274373.png) {.unnumbered}
 
 This book was written for humans who can reason intuitively.
 
@@ -35,7 +33,9 @@ This work is predicated upon three precepts:
 
 3\. Convergence, (121)
 
-# Who IS I? {.unnumbered}
+**Who is I?**
+
+![](images/clipboard-721449453.png)
 
 I am KING Arthur which means KnowING Earther.
 
@@ -43,7 +43,7 @@ I Author as I know Now,
 
 The Secret of The Grail.
 
-![Torus Torah Taurus Thor Last Thorsday](images/clipboard-1762429642.png)
+![Torus Torah Taurus Thor Last Thorsday](images/clipboard-1762429642.png){width="50%"}
 
 My human name means LordLatch and Latch knows the ledge of knowledge as I Now latch together the two worlds and everything else.
 
@@ -59,6 +59,12 @@ Everything in observed Existence extends from the same single root.
 
 Kinda looks like a 1 ( One )..
 
+Here is a more current picture of me:
+
+![](images/clipboard-1665799865.png)
+
+**About the book-**
+
 The Bookdown template I used to create this project had chapters named after those in the Lewis Carroll classic and I Decided to keep them as themes for what I'm talking about. As an example, the tumble down the rabbit-hole refers to the straight line drawn between God and Man or Father and Son. The Axis Mundi goes through the Earth as does the line datum in the midst of the torus.
 
 ![](images/clipboard-1183049593.png)
@@ -70,6 +76,10 @@ This work is not about Alice at all and at the same time, It IS.. All.
 Alice = All I See.
 
 It's okay if you don't understand.
+
+It remains to be seen how much of the structure I will be able to reveal before I'm no longer relevant to this context but I'll do my best to lay a foundation. How much of this work you understand relies solely on how much of The One Truth you obey.
+
+![](images/clipboard-4290586291.png)
 
 I
 
