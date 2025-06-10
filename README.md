@@ -7,8 +7,10 @@ editor_options:
 Awareness 'book' to supplement <https://x.com/LatchPrime>
 
 To explain some concepts I talk about on X (twitter), I wanted a free
-non twitter blog or something. I settled on a Bookdown book on a Github
-page. I didn't need all the features and overhead a blog provides.
+non twitter blog or something.
+
+I settled on a Bookdown book on a Github page. I didn't need all the
+features and overhead a blog provides.
 
 <https://lordlatch.github.io/Awareness/>
 
