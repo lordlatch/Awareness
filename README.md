@@ -6,6 +6,8 @@ editor_options:
 
 Awareness 'book' to supplement <https://x.com/LatchPrime>
 
+![](images/clipboard-3284034503.png)
+
 To explain some concepts I talk about on X (twitter), I wanted a free
 non twitter blog or something.
 
@@ -24,7 +26,7 @@ If you give to it,
 
 you will blessing a stranger of my choosing and affirming that
 
-I am The Decider.
+I am, The Decider.
 
 r4hoqCpcJCVWbBw1aaVwDo13ZZxRRrGitq
 
